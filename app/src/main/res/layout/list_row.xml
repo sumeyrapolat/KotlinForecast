@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textRemoteLocation"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:text="istanbul,Turkiye">
+
+    </androidx.appcompat.widget.AppCompatTextView>
+</layout>
